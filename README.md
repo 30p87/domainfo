@@ -16,7 +16,7 @@ https://iateaglassofnutellatoday.com is not registered. Get it on [Namecheap - i
 
 
 installation:
-- clone git repo (git clone https://github.com/30p87/domainfo.git)
-- cd into repo (cd domainfo)
-- install requirements (pip install -r requirements.txt)
-- execute main file (maybe in a screen session so it can run in the background) (python3 main.py)
+- clone git repo (`git clone https://github.com/30p87/domainfo.git`)
+- cd into repo (`cd domainfo`)
+- install requirements (`pip install -r requirements.txt`)
+- execute main file [maybe in a screen session so it can run in the background](https://linuxize.com/post/how-to-use-linux-screen/) (`python3 main.py`)
